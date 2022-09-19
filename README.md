@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-ALX Python Project
+print("Best School")
